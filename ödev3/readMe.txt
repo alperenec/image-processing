@@ -1,1 +1,0 @@
-code that counts the rice in the input image and prints it to the screen and console
